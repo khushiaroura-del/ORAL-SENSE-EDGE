@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+Oral Images Dataset/
+
+# Trained model
+model/*.pth
+
+# Generated/test images
+results/*.jpg
+results/*.jpeg
+results/*.png
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code
+.vscode/
