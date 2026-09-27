@@ -1,9 +1,4 @@
-Haan bro 👍 **README.md mein exactly ye content likho.**
-Ye tumhare **ORAL-SENSE EDGE** GitHub project ke liye professional + simple rahega.
 
-### Step 1 — `README.md` mein ye pura paste karo
-
-````markdown
 # ORAL-SENSE EDGE 🦷
 
 ### Privacy-First, Explainable & Offline Oral Lesion Screening using MobileNetV3
