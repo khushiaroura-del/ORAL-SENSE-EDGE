@@ -23,3 +23,5 @@ results/*.png
 
 # VS Code
 .vscode/
+
+results/
